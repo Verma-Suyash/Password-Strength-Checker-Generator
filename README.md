@@ -33,13 +33,8 @@ A web-based Password Strength Checker & Generator built using HTML, CSS, and Jav
   │── style.css
   │── script.js
   
-⚙️ How to Run
-  Clone the repository
-  git clone https://github.com/your-username/password-security-pro.git
-  Open index.html in your browser
-  
 🎯 Purpose
-  This project aims to promote better cybersecurity practices by helping users create strong and secure passwords while demonstrating practical web development skills.
+  This project aims to promote better cybersecurity practices by helping users create strong and secure passwords while demonstrating practical web development     skills.
   
 
 📌 Future Improvements
